@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Kendo techniques - oji waza</title> <!-- web title in the link -->
+
+ <link rel="stylesheet" type="text/css" href="css/style.css" />
+ 
+ <!--tags for increasing web traffic-->
+ <meta name="keywords" content="japan, budo, kobudo, kendo, way of the sword, samurai, ronin, katana, japanese sword, kendo techniques, kendo waza, waza, oji waza, shikake waza">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- scales website to fit mobile screen -->
+ 
+</head>
+<body>
+
+  <div id="wrapper">
+    <div id="logo">
+    <a href="kendo-techniques-home_page.html">
+        <h1>Kendo techniques</h1> <!-- web title on a page -->
+        
+    </a>
+    </div>
+    <div id="menu">
+        <ul>
+        <li><a href="index.html" class="menu_active">Home page</a></li>
+        <li><a href="podstrona-oji">Oji waza</a></li>
+        <li><a href="podstrona-shikake">Shikake waza</a></li>
+        </ul>
+    </div>
+	
+    <div id="header">
+    </div>
+	
+    <div id="container">
+    <div id="content">
+        <h2>Oji waza</h2>
+        <p>
+        The purpouse of this website is to explore techniques used in kendo.
+
+        </p>
+    </div>
+    <div id="sidebar">
+        <div id="sidebar_title">Kendo concept</div>
+        <p>
+        Kendo is a way to discipline the human character through the application of the principles of the katana.
+        </p>
+        <div id="sidebar_title">Kendo purpouse</div>
+        To mold the mind and body.<br>
+		To cultivate a vigorous spirit<br>
+		And through correct and structured training,<br>
+		To strive for improvement in the art of Kendo.<br>
+		To hold in esteem courtesy and honor.<br>
+		To associate with others with sincerity.<br>
+		And to forever pursue the cultivation of oneself.<br>
+		Thus will one be able:<br>
+		To love one's country and society;<br>
+		To contribute to the development of culture;<br>
+		And to promote peace and prosperity among all people.<br>
+		As stated by <a href="https://www.kendo.or.jp/en/knowledge/kendo-concept/#:~:text=The%20concept%20of%20kendo%20is,of%20the%20katana%20(sword).">AJKF.</a>
+		
+    </div>
+    <div id="footer">
+        <p>&copy All rights reserved. <br /> Web project: <a href="http://www.templatki.net">Darmowe Szablony Stron</a></p>
+    </div>
+    </div>
+</body>
+</html>
